@@ -1,0 +1,41 @@
+/* "Stealed" from http://jeffhowden.com/code/css/forms/ */
+
+/* form.css */
+
+form fieldset {
+  clear: both;
+  font-size: 100%;
+  border-color: #FF7400;
+  border-width: 1px 0 0 0;
+  border-style: solid none none none;
+  padding: 10px;
+  margin: 0 0 0 0;
+}
+
+form fieldset legend {
+  font-size: 150%;
+  font-weight: normal;
+  color: #F9F7ED;
+  margin: 0 0 0 0;
+  padding: 0 5px;
+}
+
+label {
+  font-size: 100%;
+}
+
+label u {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+input, select, textarea {
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 100%;
+  color: #000000;  
+}
+
+form div label {
+  padding: 3px 5px;
+  margin: 0 0 5px 0;
+}
