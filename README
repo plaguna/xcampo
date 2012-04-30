@@ -1,0 +1,17 @@
+XCAMPO
+
+This project will help you to generate different payloads for your XSS demos. Use them responsible in your own website or in these where you are allowed to do.
+
+Don't expect the code works in all the scenario, probably you will need to tweak it most of the times... but I'm pretty sure you know how to do it ;)
+
+Right now XCampo can generate the following payloads:
+- Fake login web page
+- hax0r defacement
+- Form redirection
+- Password managers steal information
+- Cookie steal 
+
+Some payloads allow different ways to send the information:
+- iframe
+- redirect
+- popup 
